@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:MYO;MYINT MAUNG;;;
+FN: MYO MYINT MAUNG 
+ORG:Presico;
+TITLE:MEP BIM Engineer
+EMAIL;type=INTERNET;type=WORK;type=pref:myomyintmaung@presicoengrg.com
+TEL;type=WORK;type=VOICE:+65 81620768
+item1.ADR;type=WORK;type=pref:;;27 Enterprise Hub \n34 Toh Guan Road East\, 01-27;;;608579;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:presicoengrg.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
