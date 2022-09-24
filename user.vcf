@@ -7,7 +7,7 @@ ORG:Presico;
 TITLE:MEP BIM Engineer
 EMAIL;type=INTERNET;type=WORK;type=pref:myomyintmaung@presicoengrg.com
 TEL;type=WORK;type=VOICE:+65 81620768
-item1.ADR;type=WORK;type=pref:;;27 Enterprise Hub \n34 Toh Guan Road East\, 01-27;;;608579;Singapore
+item1.ADR;type=WORK;type=pref:;;27 Enterprise Hub\n 34 Toh Guan Road East\, 01-27;;;608579;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:presicoengrg.com
 item2.X-ABLabel:_$!<HomePage>!$_
